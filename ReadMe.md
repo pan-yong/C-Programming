@@ -1,9 +1,4 @@
-## while
+### 中职学校C语言教学
 
-## break
-
-## continue
-
-## guess number game
-
-## homework
+笔试高考题 --> 上机竞赛题  --> 项目
+记录一些好玩的C语言项目
